@@ -1,6 +1,6 @@
-1.0.1
-Se cambiaron cositas\n
-Se vienen cositas\n
-owo
-uwu
-unu
+1.0.5
+ChangeLog:
+----------
+* New auto-updater
+* GameOver menu bug fixed
+* New bugs added to fix later
