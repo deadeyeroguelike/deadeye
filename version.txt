@@ -1,6 +1,21 @@
-1.0.5.1
+0.1.6
 ChangeLog:
 ----------
-* New auto-updater
-* GameOver menu bug fixed
-* New bugs added to fix later
+Major changes to the DeadEye Scorer:
+----------------------------
+New interface and visual effects
+Optimized and balanced achievements
+
+New visual indicators added:
+----------------------------
+When DeadEye reaches 100%
+When reloading bullets
+When attempting to shoot without bullets
+
+Reload penalties reduced when bullets are still in the chamber (Normal/Hard mode):
+----------------------------
+5 bullets: 1.5 > 1.15
+4 bullets: 1.3 > 1
+3 bullets: 1.1 > 0.8
+2 bullets: 0.9 > 0.6
+1 bullet: 0.7 > 0.45
